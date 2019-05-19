@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26dbf623-050c-4f1d-9682-5ff5e67b0fd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uber_eats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,42 +22,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="168" column="39" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="39" />
+            <state relative-caret-position="84">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="1046" column="5" lean-forward="true" selection-start-line="1043" selection-start-column="4" selection-end-line="1046" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#10088#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restaurant.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="954">
+              <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/style.css">
+        <entry file="file://$PROJECT_DIR$/restaurant_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="1448" lean-forward="true" selection-start-line="1448" selection-end-line="1448" />
+            <state relative-caret-position="248">
+              <caret line="248" column="22" lean-forward="true" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
               <folding>
-                <element signature="e#21463#21560#0" />
-                <element signature="e#21575#21627#0" />
-                <element signature="e#21642#21680#0" />
-                <element signature="e#21698#21816#0" />
-                <element signature="e#21838#21996#0" />
-                <element signature="e#22012#22320#0" />
-                <element signature="e#22336#22644#0" />
-                <element signature="e#22660#22968#0" />
-                <element signature="e#22983#23103#0" />
-                <element signature="e#23122#23202#0" />
-                <element signature="e#23218#23338#0" />
-                <element signature="e#23358#23457#0" />
-                <element signature="e#23468#23587#0" />
-                <element signature="e#23602#23701#0" />
-                <element signature="e#23712#23833#0" />
-                <element signature="e#23848#23947#0" />
-                <element signature="e#23963#24084#0" />
-                <element signature="e#24104#24203#0" />
-                <element signature="e#24220#24339#0" />
-                <element signature="e#24360#24459#0" />
-                <element signature="e#24470#24591#0" />
-                <element signature="e#24606#24705#0" />
-                <element signature="e#24719#24840#0" />
-                <element signature="e#24858#24957#0" />
+                <element signature="e#641#1137#0" />
+                <element signature="e#10093#18505#0" />
+                <element signature="e#18507#26366#0" />
               </folding>
             </state>
           </provider>
@@ -80,6 +76,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sorting</find>
+      <find>conta</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,8 +87,11 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/restaurant.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/restaurant.html" />
+        <option value="$PROJECT_DIR$/restaurant_style.css" />
       </list>
     </option>
   </component>
@@ -111,6 +111,11 @@
             <path>
               <item name="uber_eats" type="b2602c69:ProjectViewProjectNode" />
               <item name="uber_eats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uber_eats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uber_eats" type="462c0819:PsiDirectoryNode" />
+              <item name="img_restaurant" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,12 +165,13 @@
       <workItem from="1558248183475" duration="4183000" />
       <workItem from="1558256100719" duration="633000" />
       <workItem from="1558256891417" duration="525000" />
-      <workItem from="1558257841742" duration="3101000" />
+      <workItem from="1558257841742" duration="4382000" />
+      <workItem from="1558264428419" duration="4782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38988000" />
+    <option name="totallyTimeSpent" value="45051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="710" extended-state="0" />
@@ -213,42 +219,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="168" column="39" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="39" />
+        <state relative-caret-position="84">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img_restaurant/general_img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="1448" lean-forward="true" selection-start-line="1448" selection-end-line="1448" />
+        <state relative-caret-position="234">
+          <caret line="1046" column="5" lean-forward="true" selection-start-line="1043" selection-start-column="4" selection-end-line="1046" selection-end-column="5" />
           <folding>
-            <element signature="e#21463#21560#0" />
-            <element signature="e#21575#21627#0" />
-            <element signature="e#21642#21680#0" />
-            <element signature="e#21698#21816#0" />
-            <element signature="e#21838#21996#0" />
-            <element signature="e#22012#22320#0" />
-            <element signature="e#22336#22644#0" />
-            <element signature="e#22660#22968#0" />
-            <element signature="e#22983#23103#0" />
-            <element signature="e#23122#23202#0" />
-            <element signature="e#23218#23338#0" />
-            <element signature="e#23358#23457#0" />
-            <element signature="e#23468#23587#0" />
-            <element signature="e#23602#23701#0" />
-            <element signature="e#23712#23833#0" />
-            <element signature="e#23848#23947#0" />
-            <element signature="e#23963#24084#0" />
-            <element signature="e#24104#24203#0" />
-            <element signature="e#24220#24339#0" />
-            <element signature="e#24360#24459#0" />
-            <element signature="e#24470#24591#0" />
-            <element signature="e#24606#24705#0" />
-            <element signature="e#24719#24840#0" />
-            <element signature="e#24858#24957#0" />
+            <element signature="e#0#10088#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="248" column="22" lean-forward="true" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
+          <folding>
+            <element signature="e#641#1137#0" />
+            <element signature="e#10093#18505#0" />
+            <element signature="e#18507#26366#0" />
           </folding>
         </state>
       </provider>
