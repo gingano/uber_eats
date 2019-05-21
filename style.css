@@ -1234,6 +1234,9 @@
 
     .cards a {
         text-decoration: none;
+        display: block;
+        height: 100%;
+        width: 100%;
     }
 
     .mc_donalds {
