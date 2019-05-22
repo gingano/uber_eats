@@ -358,6 +358,9 @@
 
         background: #3B3B3B;
         border-radius: 2px;
+
+        -webkit-appearance: searchfield;
+        -moz-appearance:    searchfield;
     }
 
     footer .globe {
