@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Uber Eats</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Uber Eats Restaurant</title>
+    <link rel="stylesheet" href="restaurant_style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
@@ -27,107 +27,68 @@
         <a class="basket" href="#"><img src="img/basket.png" height="23" width="19"/></a>
     </header>
 
-
-    <article class="search">
-        <form action="" method="get">
-            <button type="submit"><img src="img/search.png" height="16" width="16"/></button>
-            <input name="search" placeholder="Search for restauran" type="search">
-            <img class="rectangle" src="img/Rectangle 6.png" height="1" width="308"/></form>
-    </article>
-    <article class="delivery">
-        <div class="when">When</div>
-        <div class="to">To</div>
-        <input class="when_input" type="text">
-        <img class="location" src="img/location.png" height="16" width="14"/>
-        <input class="to_input" type="text">
-    </article>
-    <article class="cards">
-        <h1>Moscow Restaurants</h1>
-
-
-        <div class="mc_donalds">
-            <a href="restaurant.html">
-            <img src="img/mcdonalds.png" height="246" width="308"/>
-            <h2>Макдоналдс — Газетный</h2>
-            <h3>₽₽ • Бургеры</h3>
-            <h4>25 - 35 Min</h4>
-            </a>
-        </div>
-
-
-        <div class="dim_sum">
-            <a href="restaurant.html">
-            <img src="img/dim_sum.png" height="246" width="308"/>
-            <h2>DimSum & Co — ЦДМ</h2>
-            <h3>₽ • Японска • Китайская • Азиатская</h3>
-            <h4>40 - 50 Min</h4>
-            </a>
-        </div>
-
-
-        <div class="dvizh_ok">
-            <a href="restaurant.html">
-            <img src="img/dvizhOk.png" height="246" width="308"/>
-            <h2>ДвижОк - Манежная</h2>
-            <h3>₽ • Американская • Европейская</h3>
-            <h4>35 - 45 Min</h4>
-            </a>
-        </div>
-
-        <div class="nha">
-            <a href="restaurant.html">
-            <img src="img/nha.png" height="246" width="308"/>
-            <h2>НЯ - NHA</h2>
-            <h3>₽₽ • Вьетнамская</h3>
-            <h4>30 - 40 Min</h4>
-            </a>
-        </div>
-
-            <div class="tzy">
-                <a href="restaurant.html">
-                <img src="img/tzy.png" height="256" width="369"/>
-                <h2>Точка Дзы - Цветной</h2>
-                <h3>₽₽ • Вьетнамская</h3>
-                <h4>40 - 50 Min</h4>
-                </a>
+        <article class="general_card">
+            <div class="general_img"></div>
+            <div class="restaurant_card">
+                <h1>Трактир «Пушкин»</h1>
+                <h2>₽₽₽ • Европейская</h2>
+                <h3>40 - 50 Min</h3>
             </div>
+        </article>
 
-            <div class="cinnabon">
-                <a href="restaurant.html">
-                <img src="img/cinnabon.png" height="256" width="369"/>
-                <h2>Cinnabon</h2>
-                <h3>₽₽ • Выпечка • Десерты • Капкейки</h3>
-                <h4>25 - 35 Min</h4>
-                </a>
-            </div>
+        <article class="main_items">
+            <ul>
+                <li class="selected"><a href="#">Закуски</a></li>
+                <li><a href="#">Салаты</a></li>
+                <li><a href="#">Супы</a></li>
+                <li><a href="#">Горячие блюда</a></li>
+                <li><a href="#">Гарниры</a></li>
+                <li><a href="#">Десерты</a></li>
+            </ul>
+        </article>
 
-            <div class="pizzelove">
-                <a href="restaurant.html">
-                <img src="img/pizzelove.png" height="256" width="369"/>
-                <h2>PIZZELOVE</h2>
-                <h3>₽₽ • Пицца</h3>
-                <h4>15 - 25 Min</h4>
-                </a>
-            </div>
+        <article class="menu">
+            <h2>Закуски</h2>
+            <img class="rectangle" src="img_restaurant/Rectangle 11.png" height="1" width="50"/>
 
-            <div class="zyu">
-                <a href="restaurant.html">
-                <img src="img/zyu.png" height="256" width="369"/>
-                <h2>Zю кафе - Тверская</h2>
-                <h3>₽₽ • Японская</h3>
-                <h4>25 - 35 Min</h4>
-                </a>
+            <div class="herring">
+                <h3>Сельдь на бородинском</h3>
+                <h4>С яйцом и огурцом</h4>
+                <h5>240 ₽</h5>
+                <img class="dish" src="img_restaurant/herring.png" height="160" width="170"/>
+                <img class="rectangle_2" src="img_restaurant/Rectangle 7.png" height="1" width="307"/>
             </div>
-
-            <div class="bar_bq">
-                <a href="restaurant.html">
-                <img src="img/bar_bq.png" height="256" width="369"/>
-                <h2>Bar BQ Cafe - Манежная</h2>
-                <h3>₽₽₽ • Европейская</h3>
-                <h4>30 - 40 Min</h4>
-                </a>
+            <div class="pickles">
+                <h3>Соленья ассорти</h3>
+                <h5>320 ₽</h5>
+                <img class="dish" src="img_restaurant/pickles.png" height="160" width="170"/>
+                <img class="rectangle_2" src="img_restaurant/Rectangle 7.png" height="1" width="307"/>
             </div>
-    </article>
+            <div class="mushrooms">
+                <h3>Грибы маринованые</h3>
+                <h5>300 ₽</h5>
+                <img class="dish" src="img_restaurant/mushrooms.png" height="160" width="170"/>
+                <img class="rectangle_2" src="img_restaurant/Rectangle 7.png" height="1" width="307"/>
+            </div>
+            <div class="fat">
+                <h3>Сало домашнее с горчицей</h3>
+                <h5>320 ₽</h5>
+                <img class="dish" src="img_restaurant/ fat.png" height="160" width="170"/>
+                <img class="rectangle_2" src="img_restaurant/Rectangle 7.png" height="1" width="307"/>
+            </div>
+            <div class="salmon">
+                <h3>Малосольная семга</h3>
+                <h5>390 ₽</h5>
+                <img class="dish" src="img_restaurant/salmon.png" height="160" width="170"/>
+                <img class="rectangle_2" src="img_restaurant/Rectangle 7.png" height="1" width="307"/>
+            </div>
+            <div class="tongue">
+                <h3>Язык говяжий с хреном</h3>
+                <h5>350 ₽</h5>
+                <img class="dish" src="img_restaurant/tongue.png" height="160" width="170"/>
+                <img class="rectangle_2" src="img_restaurant/Rectangle 7.png" height="1" width="307"/>
+            </div>
+        </article>
 
     <footer>
 
@@ -157,11 +118,11 @@
         </ul>
 
 
-        <img class="rectangle_2" src="img/Rectangle 7.png" height="1" width="304"/>
+        <img class="rectangle_1" src="img/Rectangle 7.png" height="1" width="304"/>
 
 
-        <a href="#"><img class="app_store" src="img/app_store.png" height="36" width="109"/></a>
-        <a href="#"><img class="google_play" src="img/google_play.png" height="36" width="124"/></a>
+        <a  class="app_store" href="#"><img src="img/app_store.png" height="36" width="109"/></a>
+        <a class="google_play" href="#"><img src="img/google_play.png" height="36" width="124"/></a>
 
         <img class="rectangle_3" src="img/Rectangle 7.png" height="1" width="304"/>
 
