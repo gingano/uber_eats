@@ -1340,6 +1340,10 @@
         border-radius: 4px;
     }
 
+    .selected_card {
+        background: lightgray;
+    }
+
     .menu h3 {
         position: relative;
         left: 24px;
