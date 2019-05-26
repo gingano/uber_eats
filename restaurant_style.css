@@ -524,12 +524,13 @@
         color: #FFFFFF;
     }
 
-    footer .btn_up {
-        position: relative;
+    .btn_up {
+        position: fixed;
         width: 64px;
         height: 64px;
-        left: 240px;
-        top: 250px;
+        left: 230px;
+        top: 470px;
+        z-index: 10;
     }
 
     .footer_bg {
@@ -1025,12 +1026,13 @@
         top: 84px;
     }
 
-    footer .btn_up {
-        position: relative;
+    .btn_up {
+        position: fixed;
         width: 64px;
         height: 64px;
         left: 672px;
-        top: 50px;
+        top: 900px;
+        z-index: 10;
     }
 
     .footer_bg {
@@ -1536,8 +1538,9 @@
         position: fixed;
         width: 80px;
         height: 80px;
-        left: 884px;
-        top: 650px;
+        left: 950px;
+        top: 500px;
         z-index: 10;
+        cursor: pointer;
     }
 }
