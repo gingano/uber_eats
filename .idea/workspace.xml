@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26dbf623-050c-4f1d-9682-5ff5e67b0fd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/restaurant_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant_style.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="uber_eats" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/restaurant_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="1028" column="24" selection-start-line="1028" selection-start-column="24" selection-end-line="1028" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9726#0" />
+                <element signature="e#34#127#0" />
+                <element signature="e#144#197#0" />
+                <element signature="e#208#244#0" />
+                <element signature="e#257#459#0" />
+                <element signature="e#480#510#0" />
+                <element signature="e#533#563#0" />
+                <element signature="e#582#696#0" />
+                <element signature="e#711#1207#0" />
+                <element signature="e#1223#1667#0" />
+                <element signature="e#1681#1717#0" />
+                <element signature="e#1737#1835#0" />
+                <element signature="e#1854#2021#0" />
+                <element signature="e#2044#2280#0" />
+                <element signature="e#2306#2617#0" />
+                <element signature="e#2643#2954#0" />
+                <element signature="e#2980#3408#0" />
+                <element signature="e#18722#27844#0" />
+                <element signature="e#18766#18842#0" />
+                <element signature="e#18859#19047#0" />
+                <element signature="e#19060#19215#0" />
+                <element signature="e#19234#19352#0" />
+                <element signature="e#19375#19406#0" />
+                <element signature="e#19424#19637#0" />
+                <element signature="e#19647#19953#0" />
+                <element signature="e#19969#20109#0" />
+                <element signature="e#20125#20341#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sorting</find>
+      <find>conta</find>
+      <find>contai</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/restaurant.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/restaurant.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/scrypt.js" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/restaurant_style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="710" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uber_eats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uber_eats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uber_eats" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uber_eats" type="462c0819:PsiDirectoryNode" />
+              <item name="img_restaurant" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26dbf623-050c-4f1d-9682-5ff5e67b0fd2" name="Default Changelist" comment="" />
+      <created>1557941010009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557941010009</updated>
+      <workItem from="1557941013731" duration="3687000" />
+      <workItem from="1557986689049" duration="150000" />
+      <workItem from="1558026589365" duration="9981000" />
+      <workItem from="1558077882512" duration="2213000" />
+      <workItem from="1558109429934" duration="10858000" />
+      <workItem from="1558165464366" duration="3657000" />
+      <workItem from="1558248183475" duration="4183000" />
+      <workItem from="1558256100719" duration="633000" />
+      <workItem from="1558256891417" duration="525000" />
+      <workItem from="1558257841742" duration="4382000" />
+      <workItem from="1558264428419" duration="5139000" />
+      <workItem from="1558440714330" duration="9694000" />
+      <workItem from="1558519620506" duration="7791000" />
+      <workItem from="1558529810488" duration="353000" />
+      <workItem from="1558538280631" duration="520000" />
+      <workItem from="1558539553894" duration="240000" />
+      <workItem from="1558603824004" duration="147000" />
+      <workItem from="1558708884400" duration="3391000" />
+      <workItem from="1558859079261" duration="1893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69437000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="710" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49667773" visible="true" weight="0.1731533" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50332224" side_tool="true" weight="0.2494043" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44186047" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49667773" visible="true" weight="0.1731533" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50332224" side_tool="true" weight="0.2494043" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44186047" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/img/shape.png" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant.css" />
+    <entry file="file://$PROJECT_DIR$/img_restaurant/general_img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant.html" />
+    <entry file="file://$PROJECT_DIR$/index_general.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1485" column="13" selection-start-line="1485" selection-start-column="13" selection-end-line="1485" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10088#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrypt.js" />
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="1028" column="24" selection-start-line="1028" selection-start-column="24" selection-end-line="1028" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9726#0" />
+            <element signature="e#34#127#0" />
+            <element signature="e#144#197#0" />
+            <element signature="e#208#244#0" />
+            <element signature="e#257#459#0" />
+            <element signature="e#480#510#0" />
+            <element signature="e#533#563#0" />
+            <element signature="e#582#696#0" />
+            <element signature="e#711#1207#0" />
+            <element signature="e#1223#1667#0" />
+            <element signature="e#1681#1717#0" />
+            <element signature="e#1737#1835#0" />
+            <element signature="e#1854#2021#0" />
+            <element signature="e#2044#2280#0" />
+            <element signature="e#2306#2617#0" />
+            <element signature="e#2643#2954#0" />
+            <element signature="e#2980#3408#0" />
+            <element signature="e#18722#27844#0" />
+            <element signature="e#18766#18842#0" />
+            <element signature="e#18859#19047#0" />
+            <element signature="e#19060#19215#0" />
+            <element signature="e#19234#19352#0" />
+            <element signature="e#19375#19406#0" />
+            <element signature="e#19424#19637#0" />
+            <element signature="e#19647#19953#0" />
+            <element signature="e#19969#20109#0" />
+            <element signature="e#20125#20341#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
